@@ -12,3 +12,20 @@ Project initialized (Day 0) (18-12-2025)
 - Frontend: React
 - Backend: Node.js
 - Database: PostgreSQL
+
+## Roadmap
+
+### Phase 1 (MVP)
+- Basic student management
+- Batch creation
+- Attendance tracking
+- Manual fee tracking
+
+### Phase 2
+- Authentication & roles
+- Reports & analytics
+
+### Phase 3
+- Automated reminders
+- Payment integrations
+- Deployment & scaling
