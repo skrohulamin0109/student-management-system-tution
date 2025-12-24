@@ -1,11 +1,13 @@
-
-
+import NavBarOptions from "./assets/components/NavBar/NavBarOptions"
+import styles from "./App.module.css"
 function App() {
  
 
   return (
     <>
-    <h1>Starting First Full-stack production level app.</h1>      
+    <div className={styles.mainContainer}>
+    <NavBarOptions></NavBarOptions>
+    </div>
     </>
   )
 }
