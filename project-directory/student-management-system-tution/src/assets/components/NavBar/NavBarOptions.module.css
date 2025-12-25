@@ -15,11 +15,28 @@
   width: 50%;
   height: 100%;
   display: flex;
-  background-color: cyan;
+  background-color: #2d936cff;
   align-items: center;
   justify-content: space-around;
 }
 
 .li_items{
+  color: black;
   list-style: none;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+  border: 2px solid lightgreen;
+  padding: 5px 10px 5px 10px;
+}
+
+.li_items:hover{
+  background-color: rgb(54, 168, 125);
+  color: white;
+  transition: all 0.15s ease-in-out;
+  transform: scale(1.1);
+}
+
+.li_items:active{
+  transform: scale(0.95);
 }
