@@ -1,7 +1,7 @@
 import styles from "./NavBarOptions.module.css";
 
 const NavBarOptions = () => {
-  let navOptions = ['Students Section', 'Teachers Section']
+  let navOptions = [ 'Teachers Section', 'Students Section', 'Fees & Dates', 'Contact Me']
   return (
     <>
     <nav className={styles.nav}>
