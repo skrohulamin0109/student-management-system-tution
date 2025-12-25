@@ -10,7 +10,17 @@
 }
 
 .company_logo_container{
-  background-color: yellow;
+  height: 50px;
+  grid-column: 1;
+  width: 100%;
+  object-fit: cover;
+}
+
+.company_logo{
+  height: 100%;
+  margin-left: 10px;
+  object-fit: contain;
+  border-radius: 50px;
 }
 
 
