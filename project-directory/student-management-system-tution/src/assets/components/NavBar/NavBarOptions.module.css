@@ -9,7 +9,9 @@
   justify-content: center;
 }
 
-.company_logo_container{}
+.company_logo_container{
+  background-color: yellow;
+}
 
 
 .ul_container{

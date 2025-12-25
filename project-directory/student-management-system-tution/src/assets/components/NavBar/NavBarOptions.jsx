@@ -5,7 +5,7 @@ const NavBarOptions = () => {
   return (
     <>
     <div className={styles.company_logo_container}>
-
+      <img src="" alt="company logo" className={styles.company_logo} />
     </div>
 
     <nav className={styles.nav}>
