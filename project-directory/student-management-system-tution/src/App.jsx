@@ -7,6 +7,11 @@ function App() {
     <>
     <div className={styles.mainContainer}>
     <NavBarOptions></NavBarOptions>
+    
+    <div className={styles.contentContainer}>
+      <BatchesSection></BatchesSection>
+    </div>
+
     </div>
     </>
   )
