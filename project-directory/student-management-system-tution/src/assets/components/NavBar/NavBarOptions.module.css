@@ -35,6 +35,7 @@
   background-color: #2d936cff;
   align-items: center;
   justify-content: space-around;
+  border-radius: 10px;
 }
 
 .li_items{
